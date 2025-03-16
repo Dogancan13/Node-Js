@@ -1,0 +1,12 @@
+{
+  "name": "traffic-light-sim",
+  "version": "1.0.0",
+  "main": "trafficLight.js",
+  "type": "module",
+  "scripts": {
+    "start": "node trafficLight.js"
+  },
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}
